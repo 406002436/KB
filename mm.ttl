@@ -1,5 +1,5 @@
 # baseURI: http://mykb/mm
-# prefix: mm
+# prefix: mm.1
 
 @prefix mm: <http://mykb/mm#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
